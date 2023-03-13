@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @radon1743
+- 👋 Hi, I’m Rachit Bhitre
 - 👀 I’m interested in programing if can't tell by now
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on recomendation sys
+- 🌱 I’m currently learning Rust 🦀
 - 📫 How to reach me 
 Twitter-@rachit004
 IG-Radon1743
