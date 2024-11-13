@@ -2,7 +2,6 @@
 - 👀 I’m interested in programing if can't tell by now
 - 🌱 I’m currently learning Rust 🦀
 - 📫 How to reach me 
-Twitter-@rachit004
 IG-Radon1743
 Email-rachit.bhi004@gmail.com
 
