@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rachit Bhitre
-- 👀 I’m interested in programing if can't tell by now
-- 🌱 I’m currently learning Rust 🦀
+- 👀 Learning Angular 
+- 🌱 A Rustacian 🦀
 - 📫 How to reach me 
 IG-Radon1743
 Email-rachit.bhi004@gmail.com
