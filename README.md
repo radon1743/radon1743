@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Rachit Bhitre
-- 👀 Learning Angular 
+- 👀 Learning Vue.js 
 - 🌱 A Rustacian 🦀
 - 📫 How to reach me 
-IG-Radon1743
 Email-rachit.bhi004@gmail.com
 
 <!---
